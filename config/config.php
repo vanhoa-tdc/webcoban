@@ -4,7 +4,7 @@ $configDB["host"] 		= "hktweb.mysql.database.azure.com";
 $configDB["database"]	= "computer_store";
 $configDB["username"] 	= "hktpc_hoa";
 $configDB["password"] 	= "tdc111!!!";
-define("HOST", "localhost");
+define("HOST", "hktweb.mysql.database.azure.com");
 define("DB_NAME", "computer_store");
 define("DB_USER", "hktpc_hoa");
 define("DB_PASS", "tdc111!!!");
